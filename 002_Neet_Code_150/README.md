@@ -56,7 +56,8 @@ ordered so each problem builds on the last. This folder is my run through it.
 | :-: | :--- | :-: | :--- | :-: | :-: |
 | 1 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | 🟢 Easy | Hash Set | `O(n)` | `O(n)` |
 | 2 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | 🟢 Easy | Hash Map / Counting | `O(n)` | `O(1)` |
-| 3 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | Hash Map | `O(n)` | `O(n)` |
+| 3 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | Hash Map | `O(n^2)` | `O(n)` |
+| 4 | [Group Anagram](https://neetcode.io/problems/anagram-groups/question?list=neetcode150) | 🟢 Easy | Hash Map | `` | `` |
 
 > 📌 *Add a row here every time a new problem lands in the notebook.*
 
